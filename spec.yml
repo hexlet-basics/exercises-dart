@@ -1,7 +1,7 @@
 ---
 
 language:
-  docker_image: "hexletbasics/exercises-dart"
+  docker_image: "ghcr.io/hexlet-basics/exercises-dart"
   extension: dart
   exercise_filename: main.dart
   exercise_test_filename: main_test.dart
